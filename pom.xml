@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.varunchandran.blackjack</groupId>
 	<artifactId>card-counting-trainer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Card Counting Trainer</name>
 	<description>A trainer to improve your Blackjack card counting</description>
 	<properties>
