@@ -4,7 +4,7 @@
 	<artifactId>card-counting-trainer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Card Counting Trainer</name>
-	<description>A trainer to improve your card counting</description>
+	<description>A trainer to improve your Blackjack card counting</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
