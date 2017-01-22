@@ -8,7 +8,7 @@ Card Counting is particularly useful in Blackjack when trying to decide whether 
 by, you maintain a running count that tells you whether the deck is loaded with low or high cards at any given point 
 in time. In the High-Low method of card counting, each card is given a value:
 
-- Cards from 2 - 6 have a value of +1
+- Cards 2 - 6 have a value of +1
 - Cards 7 - 9 have a value of 0
 - Cards 10 - A have a value of -1
 
