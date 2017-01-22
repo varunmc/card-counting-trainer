@@ -12,6 +12,7 @@ in time. In the High-Low method of card counting, each card is given a value:
 - Cards 7 - 9 have a value of 0
 - Cards 10 - A have a value of -1
 
+## Method
 The trainer walks you through a single deck at the desired cards per minute speed and you have to keep track of the 
 current score. As you get better, increase the speed to challenge yourself or add music and other distractions when
 to make it harder. The goal is to make card counting so effortless that it becomes second nature to you on the casino
